@@ -1,6 +1,6 @@
 name = "Arb_jll"
 uuid = "d9960996-1013-53c9-9ba4-74a4155039c3"
-version = "2.18.0+0"
+version = "2.17.0+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
@@ -11,3 +11,4 @@ FLINT_jll = "e134572f-a0d5-539d-bddf-3cad8db41a82"
 
 [compat]
 julia = "1.0"
+FLINT_jll = "=0.0.1"

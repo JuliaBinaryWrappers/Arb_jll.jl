@@ -32,13 +32,13 @@ function __init__()
 
     # Initialize PATH and LIBPATH environment variable listings
     global PATH_list, LIBPATH_list
-    # We first need to add to LIBPATH_list the libraries provided by Julia
-    append!(LIBPATH_list, [Sys.BINDIR, joinpath(Sys.BINDIR, Base.LIBDIR, "julia"), joinpath(Sys.BINDIR, Base.LIBDIR)])
     # From the list of our dependencies, generate a tuple of all the PATH and LIBPATH lists,
     # then append them to our own.
     foreach(p -> append!(PATH_list, p), (FLINT_jll.PATH_list, GMP_jll.PATH_list, MPFR_jll.PATH_list,))
     foreach(p -> append!(LIBPATH_list, p), (FLINT_jll.LIBPATH_list, GMP_jll.LIBPATH_list, MPFR_jll.LIBPATH_list,))
 
+    # Lastly, we need to add to LIBPATH_list the libraries provided by Julia
+    append!(LIBPATH_list, [Sys.BINDIR, joinpath(Sys.BINDIR, Base.LIBDIR, "julia"), joinpath(Sys.BINDIR, Base.LIBDIR)])
     global libarb_path = normpath(joinpath(artifact_dir, libarb_splitpath...))
 
     # Manually `dlopen()` this right now so that future invocations
