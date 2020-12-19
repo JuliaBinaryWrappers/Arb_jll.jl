@@ -5,7 +5,7 @@ using FLINT_jll
 using GMP_jll
 using MPFR_jll
 JLLWrappers.@generate_wrapper_header("Arb")
-JLLWrappers.@declare_library_product(libarb, "@rpath/libarb-2.9.1.dylib")
+JLLWrappers.@declare_library_product(libarb, "@rpath/libarb-2.10.0.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(FLINT_jll, GMP_jll, MPFR_jll)
     JLLWrappers.@init_library_product(
