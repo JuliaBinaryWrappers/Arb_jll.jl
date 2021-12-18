@@ -1,6 +1,6 @@
 name = "Arb_jll"
 uuid = "d9960996-1013-53c9-9ba4-74a4155039c3"
-version = "200.2000.1+0"
+version = "200.2100.101+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

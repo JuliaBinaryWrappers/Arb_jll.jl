@@ -1,143 +1,143 @@
 [[Arb]]
 arch = "aarch64"
-git-tree-sha1 = "1be1b29b2060706d2ca9fb6c45849fa98662906b"
+git-tree-sha1 = "7c29115b326c4e4083bf3a3eefe9c8f4b706bf00"
 os = "macos"
 
     [[Arb.download]]
-    sha256 = "02f2799be42848f4a10ce3f617cf53467805bc50bc772a6dd84df0daa73f24d8"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "8a949e2f3d255a67ed65f21c70c0bf98ff6542b43b1f6fa59c856e602c65dfb0"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.aarch64-apple-darwin.tar.gz"
 [[Arb]]
 arch = "aarch64"
-git-tree-sha1 = "b7f774ee6201006342c2758a8872696a36a920d1"
+git-tree-sha1 = "0c82553116c5731cded7f06332425b6b024b28ae"
 libc = "glibc"
 os = "linux"
 
     [[Arb.download]]
-    sha256 = "c363a7afffad140cc641f9a8399ba8186cfd0873969d1c073146c1e0c941724d"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "ab2f3c8eca43fdd0d9004c629310e2045953931366e19b2ffa4a558434d188d9"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.aarch64-linux-gnu.tar.gz"
 [[Arb]]
 arch = "aarch64"
-git-tree-sha1 = "7c44e3e4159a5a023bdf472ade32fa2d700fd43a"
+git-tree-sha1 = "aa85af3d3e7c139ee8d426bceaf4137efd0ca25e"
 libc = "musl"
 os = "linux"
 
     [[Arb.download]]
-    sha256 = "1917dbc1233f1141bd6d2aaa628b290be5667ea3eca5cea5f34cc8220e05ba37"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.aarch64-linux-musl.tar.gz"
+    sha256 = "4d48e28dc5ed3b0335dbf79fa2cade18c97c64ba0edf2f2ab7f48eecb3d543d6"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.aarch64-linux-musl.tar.gz"
 [[Arb]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "70deaec20386940f8a26be8f65c0f79f01093088"
+git-tree-sha1 = "b31a95fe1a2c6e0e4a7c30b85fb0313d36e0d321"
 libc = "glibc"
 os = "linux"
 
     [[Arb.download]]
-    sha256 = "e2f2681e8f1bc5bfa9bc7280eebdd99bcaf5250196b6915584de77bcb82fe18d"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "9fe807f822323fe94018c00b14b62dd729c2374cdaf6e0b237332f79f6d451d6"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.armv6l-linux-gnueabihf.tar.gz"
 [[Arb]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "779a26ac97f53d750e79cb1e5290f3c560151be5"
+git-tree-sha1 = "50bb7ac881324bc9bb06ad1d52725fe742a28adb"
 libc = "musl"
 os = "linux"
 
     [[Arb.download]]
-    sha256 = "dff4a34fd03d67cdce7a192cc6b1592d0a7ede30263a15e081186aad10fa331b"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "016ea6907e709f2a973a3e27518ec6e485cfd87e4ac0957f4d06534663d31719"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.armv6l-linux-musleabihf.tar.gz"
 [[Arb]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1b0ed4aacd09a4175da48151775be869fe11667f"
+git-tree-sha1 = "6ec3bceab7b2f75aa952ceff603751dda2951c42"
 libc = "glibc"
 os = "linux"
 
     [[Arb.download]]
-    sha256 = "5c8262c834c9638337221338df8730da182278c4e232cf7de6b6264db71d9b13"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "3b0c28f8b1d70fe31f684043149d3457b610b123c7ea1be31ae2bd922c316206"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.armv7l-linux-gnueabihf.tar.gz"
 [[Arb]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "63fe7ad3ad100a34b14ea78331010483a8c01dbc"
+git-tree-sha1 = "e01d81a2fe8373fea50b328823044b25c71ebfff"
 libc = "musl"
 os = "linux"
 
     [[Arb.download]]
-    sha256 = "e3d17303b16298ea5989d0816e40c4c4741980cf2910fdbfa209ef726aac35a6"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "48d4eaa229fd988657bfba309a8596910e73820933e6b48ea9dcc206ad3e866f"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.armv7l-linux-musleabihf.tar.gz"
 [[Arb]]
 arch = "i686"
-git-tree-sha1 = "9b1e6f35c00dc6dedd565b3506b64fa7e2aff598"
+git-tree-sha1 = "2916cf9c7cf7e15f6c639b6d9f562e11ed0e5e63"
 libc = "glibc"
 os = "linux"
 
     [[Arb.download]]
-    sha256 = "572d318ce860f7485757c0fe2803485bacc59ad7c9a66a99f4d7d358fca9a929"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.i686-linux-gnu.tar.gz"
+    sha256 = "25b9949c6b697e12d55e50f84c640ea027940f5cd86b70a1d7c0dc39800ec2c4"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.i686-linux-gnu.tar.gz"
 [[Arb]]
 arch = "i686"
-git-tree-sha1 = "a7269935dbb6bfc506f8bf6d00dc5d6327308b1d"
+git-tree-sha1 = "224345c3f07db02d73007f54f637940d2d47a2d2"
 libc = "musl"
 os = "linux"
 
     [[Arb.download]]
-    sha256 = "c7161c9e48820ad26e1eb750db54bdb6cfb77da50e96e6dce47d7f09f2ef2c71"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.i686-linux-musl.tar.gz"
+    sha256 = "a660c9c49ca5f61e365cc64d60e1dfabec491d85dad8e61575a0658002a27b17"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.i686-linux-musl.tar.gz"
 [[Arb]]
 arch = "i686"
-git-tree-sha1 = "9464e793bb0a5f470c2d4ea55ee592ea0dd9468c"
+git-tree-sha1 = "e5b6af1ead455b8cf5135ab6b128e39b750752ea"
 os = "windows"
 
     [[Arb.download]]
-    sha256 = "5ed86c9ec11b09b869ee3e4312dbe0ac63ab8fc8bddaaae1d9c01689efcbf7fc"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.i686-w64-mingw32.tar.gz"
+    sha256 = "0fd7a145af32d431abd11e7a30f633b566e6569a4f1212d9fd09a76f65d47148"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.i686-w64-mingw32.tar.gz"
 [[Arb]]
 arch = "powerpc64le"
-git-tree-sha1 = "9fd79d8bff6c5950852b0beeb50fca0568095d76"
+git-tree-sha1 = "16c837c495c27ebf25379f01f2cc419cc07721b9"
 libc = "glibc"
 os = "linux"
 
     [[Arb.download]]
-    sha256 = "5dd676a40b5a0afeace3c67396eb6b1fb8be300b652e1e672870b9afddd9ef97"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "d194b9b4ee909851294a5fcf69cd8c08abc54add3960e837cbd1c15b0cb79e66"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.powerpc64le-linux-gnu.tar.gz"
 [[Arb]]
 arch = "x86_64"
-git-tree-sha1 = "e974eaa884232475c513d8823d3a887f23828a13"
+git-tree-sha1 = "89ab4b305ae007aad423cdf31a6d610aba5c4716"
 os = "macos"
 
     [[Arb.download]]
-    sha256 = "23f7c23c57d08e5f8664e871ce39350881164162de0581e0239aa4fa538884d2"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "63b5b9d60997a763fd2e91aef9bfef5b14531dfdf2434153c2ea84af7b4c1e44"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.x86_64-apple-darwin.tar.gz"
 [[Arb]]
 arch = "x86_64"
-git-tree-sha1 = "7babc5a95cba7249d59af73e580f5cbfdfa57509"
+git-tree-sha1 = "3484b6a8edf6e0aae26e9e6ab851d283bd590922"
 libc = "glibc"
 os = "linux"
 
     [[Arb.download]]
-    sha256 = "5fb0088532f45ba636cbbf9dc4e4df92025b91e009f6ffe899d79351fb668c7e"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "0883770d06a24517bd5f44faa2c43ddbb2dfcd56ac03f8f01e82deb3775b540b"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.x86_64-linux-gnu.tar.gz"
 [[Arb]]
 arch = "x86_64"
-git-tree-sha1 = "2bfa05983e90c05c2d758ce559771cc74e9c2b5a"
+git-tree-sha1 = "f63e98b36ddb8a256eab76c77f5ea8d6e37a805c"
 libc = "musl"
 os = "linux"
 
     [[Arb.download]]
-    sha256 = "a3e09d28565cdba5221ba3348e99b5f889d5558cd9ef8115bdb89fdbd7c29143"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.x86_64-linux-musl.tar.gz"
+    sha256 = "02ff241eb6b763fefa394501002d6469fff83b30f2ed4a20f323f3b263432bec"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.x86_64-linux-musl.tar.gz"
 [[Arb]]
 arch = "x86_64"
-git-tree-sha1 = "64bcf8b111fc1fff371235a2c0e2e8ea3de88b74"
+git-tree-sha1 = "4bf1be3b6128ba171ab368dddaaa1d54d51d21bb"
 os = "freebsd"
 
     [[Arb.download]]
-    sha256 = "6720791167163b536426982f67b56112d887437c3c899ccf8fc85314e237457d"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "10f53d266afa39dfc61516423aaa8b0f33125fcfb83c37f80897d072081bbd69"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.x86_64-unknown-freebsd.tar.gz"
 [[Arb]]
 arch = "x86_64"
-git-tree-sha1 = "f9d7c4e9fbc1c2d0b456ed28a61fde91ed457c60"
+git-tree-sha1 = "01abdf5019c5c0a1c4f856ba03b1bc6a14b0c88b"
 os = "windows"
 
     [[Arb.download]]
-    sha256 = "1d8ffdbed1ac82a15ce6c50adb0fa398c64f5311da65686918e5ae7f6acad2b8"
-    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2000.1+0/Arb.v200.2000.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "2f47e35245fb316f2a39f9be5b8baf5f25fa6207d13b3eb443d1c140c624a3b1"
+    url = "https://github.com/JuliaBinaryWrappers/Arb_jll.jl/releases/download/Arb-v200.2100.101+0/Arb.v200.2100.101.x86_64-w64-mingw32.tar.gz"
